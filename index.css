@@ -5,3 +5,11 @@ h1 {
 h2 {
     font-size: 15px;
 }
+
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    background-color: wheat;
+}
